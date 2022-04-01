@@ -12,11 +12,14 @@ Interests in distributed systems, cloud computing, solving hard problems. and de
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+
 
 ### What I want to learn 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -33,3 +36,20 @@ Interests in distributed systems, cloud computing, solving hard problems. and de
 
 ![Isaiah's github stats](https://github-readme-stats.vercel.app/api?username=idkburkes&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idkburkes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Experience
+
+### Software Engineer Intern - NASA Kennedy Space Center
+
+
+
+### Software Engineer Intern - Integrated Solutions for Systems (IS4S)
+
+
+IS4S is a Defense start-up that specializes in PNT, missile system engineering, energetic research and development, vehicle electronics, and additive manufacturing. During my 9 month internship I contributed by extending the capabilities of a Java SDK, as well as designing and developing an internal web application utilizing JavaScript, Node.js, Express.js, HTML, CSS, Docker, and MySQL. This was my first experience working alongside experienced engineers and it was amazing to see how much talent this small company has to offer.
+
+### Information Technology Specialist 25B - Florida Army National Guard
+After leaving active duty, I started my transition into the tech industry by serving in the Florida Army National Guard for one year as an IT Specialist. I started learning the ins and outs of network connectivity, software, hardware, remote desktop connections, printers, peripherals, and workstation performance. It was during this year that I earned the Cisco Certified Entry Networking Technician (CCENT) and CompTIA A+ certifications.
+
+### Infantryman 11B - United States Army (Sep 15 - Jan 19)
+I began my professional career only a few months after my 17th birthday by enlisting in the U.S. Army. I honorably served as a Paratrooper in the 82nd Airborne Division for 3 1/2 formative years. My service included ~30 static line jumps from fixed-wing and rotary-wing aircrafts, 1 combat deployment to Iraq, and countless memories with the best friends I have ever made. I believe the grit I developed as an Airborne Infantry soldier will help me succeed as a Software Engineer for your team.
