@@ -39,17 +39,23 @@ Interests in distributed systems, cloud computing, solving hard problems. and de
 
 # Experience
 
-### Software Engineer Intern - NASA Kennedy Space Center
+## Software Engineer - Microsoft (May 22 - Current)
+
+This is my upcoming job. I am going contribute to building the next generation of financial systems <em>for</em> Azure <em>on</em> Azure.
+
+## Software Engineer Intern - NASA Kennedy Space Center (Jan 22 - May 22)
+
+I worked as a Software Engineering intern in NASA's Software branch of the Exploration Systems & Operations Division. I supported software development efforts to improve the Launch Control System responsible for monitoring measurement displays and sending commands to spacecraft such as the [Space Launch System](https://www.nasa.gov/exploration/systems/sls/index.html) (SLS) and the [Orion Spacecraft](https://www.nasa.gov/exploration/systems/orion/index.html). I also represented NASA as a speaker on panel of 5 engineers during a High School outreach event to promote careers in STEM.
 
 
-
-### Software Engineer Intern - Integrated Solutions for Systems (IS4S)
-
+## Software Engineer Intern - Integrated Solutions for Systems (IS4S) (Dec 20 - Aug 21)
 
 IS4S is a Defense start-up that specializes in PNT, missile system engineering, energetic research and development, vehicle electronics, and additive manufacturing. During my 9 month internship I contributed by extending the capabilities of a Java SDK, as well as designing and developing an internal web application utilizing JavaScript, Node.js, Express.js, HTML, CSS, Docker, and MySQL. This was my first experience working alongside experienced engineers and it was amazing to see how much talent this small company has to offer.
 
-### Information Technology Specialist 25B - Florida Army National Guard
+## Information Technology Specialist 25B - Florida Army National Guard (Jan 19 - Jan 20)
+
 After leaving active duty, I started my transition into the tech industry by serving in the Florida Army National Guard for one year as an IT Specialist. I started learning the ins and outs of network connectivity, software, hardware, remote desktop connections, printers, peripherals, and workstation performance. It was during this year that I earned the Cisco Certified Entry Networking Technician (CCENT) and CompTIA A+ certifications.
 
-### Infantryman 11B - United States Army (Sep 15 - Jan 19)
+## Infantryman 11B - United States Army (Sep 15 - Jan 19)
+
 I began my professional career only a few months after my 17th birthday by enlisting in the U.S. Army. I honorably served as a Paratrooper in the 82nd Airborne Division for 3 1/2 formative years. My service included ~30 static line jumps from fixed-wing and rotary-wing aircrafts, 1 combat deployment to Iraq, and countless memories with the best friends I have ever made. I believe the grit I developed as an Airborne Infantry soldier will help me succeed as a Software Engineer for your team.
