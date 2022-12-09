@@ -19,15 +19,6 @@ Interests in distributed systems, cloud computing, solving hard problems. and de
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-
-
-### What I want to learn 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-
-
-
 
 
 
@@ -38,7 +29,8 @@ Interests in distributed systems, cloud computing, solving hard problems. and de
 
 ## Software Engineer - Microsoft (May 22 - Current)
 
-This is my upcoming job. I am going contribute to building the next generation of financial systems <em>for</em> Azure <em>on</em> Azure.
+Learning from the best in the business.
+Distributed Systems · Microservices · NoSQL · .NET · Azure Kubernetes Service (AKS) · Azure DevOps · C#
 
 ## Software Engineer Intern - NASA Kennedy Space Center (Jan 22 - May 22)
 
