@@ -28,8 +28,7 @@ Interests in distributed systems, cloud computing, solving hard problems. and de
 # Experience
 
 ## Software Engineer - Microsoft (May 22 - Current)
-
-Learning from the best in the business.
+Navigating the complexities of developing large scale distributed systems and data intensive applications.
 Distributed Systems · Microservices · NoSQL · .NET · Azure Kubernetes Service (AKS) · Azure DevOps · C#
 
 ## Software Engineer Intern - NASA Kennedy Space Center (Jan 22 - May 22)
